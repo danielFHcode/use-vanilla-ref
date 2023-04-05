@@ -1,5 +1,5 @@
 {
-    "name": "use-vanila-ref",
+    "name": "use-vanilla-ref",
     "version": "1.0.0",
     "description": "A library based on the react hook for easally and distinctly selecting js-created elements in vanila js.",
     "main": "script.js",
