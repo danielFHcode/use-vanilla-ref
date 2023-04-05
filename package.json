@@ -1,0 +1,25 @@
+{
+    "name": "use-vanila-ref",
+    "version": "1.0.0",
+    "description": "A library based on the react hook for easally and distinctly selecting js-created elements in vanila js.",
+    "main": "script.js",
+    "scripts": {
+        "build": "rollup --config rollup.config.js"
+    },
+    "keywords": [
+        "vanila-js",
+        "use-ref"
+    ],
+    "author": "Daniel F.H.",
+    "license": "ISC",
+    "dependencies": {
+        "random-seed": "^0.3.0"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.21.4",
+        "@rollup/plugin-babel": "^6.0.3",
+        "@rollup/plugin-commonjs": "^24.0.1",
+        "@rollup/plugin-node-resolve": "^15.0.2",
+        "rollup": "^3.20.2"
+    }
+}
